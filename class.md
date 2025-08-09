@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Basit Ali  
+- Certification: Meto Front End Developer  
 
 ## Instructions
 Please replace the placeholders with your details:
